@@ -5,5 +5,3 @@
 
 <img src="https://playstation-4.vercel.app/assets/images/playstation-4.png">
 
-<br>
-# PlayStation 
